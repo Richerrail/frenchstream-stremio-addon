@@ -175,6 +175,8 @@ Même URL : `https://ton-serveur.com/manifest.json`
 2. **Qualité** : Les sources s'adaptent automatiquement
 3. **Sous-titres** : Disponibles sur la plupart des contenus
 4. **Multi-sources** : Si une source ne marche pas, essaie les autres
+5. Prend mon lien render ci-dessous clique sur le lien et clique sur install et voila!!
+6. lien render: https://frenchstream-stremio-addon.onrender.com
 
 ## 🎯 Fonctionnalités futures
 
